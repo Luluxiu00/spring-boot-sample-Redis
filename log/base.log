@@ -1,0 +1,36 @@
+2017-06-19 16:29:21,795 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on SHA-Q06060086 with PID 3344 (D:\326944\Downloads\spring-boot-sample-Redis\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-Redis)
+2017-06-19 16:29:21,805 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-19 16:29:21,805 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-19 16:29:25,517 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 4.562 seconds (JVM running for 7.156)
+2017-06-19 16:31:51,719 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on SHA-Q06060086 with PID 6052 (D:\326944\Downloads\spring-boot-sample-Redis\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-Redis)
+2017-06-19 16:31:51,722 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-19 16:31:51,722 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-19 16:31:53,791 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.302 seconds (JVM running for 2.639)
+2017-06-19 16:33:58,396 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on SHA-Q06060086 with PID 4944 (D:\326944\Downloads\spring-boot-sample-Redis\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-Redis)
+2017-06-19 16:33:58,398 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-19 16:33:58,399 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-19 16:34:00,391 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.212 seconds (JVM running for 2.506)
+2017-06-19 16:37:12,897 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on SHA-Q06060086 with PID 1860 (D:\326944\Downloads\spring-boot-sample-Redis\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-Redis)
+2017-06-19 16:37:12,899 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-19 16:37:12,899 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-19 16:37:14,987 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.362 seconds (JVM running for 2.676)
+2017-06-19 16:40:36,486 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on SHA-Q06060086 with PID 6356 (D:\326944\Downloads\spring-boot-sample-Redis\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-Redis)
+2017-06-19 16:40:36,489 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-19 16:40:36,490 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-19 16:40:38,525 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.26 seconds (JVM running for 2.563)
+2017-06-19 16:45:32,286 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on SHA-Q06060086 with PID 6164 (D:\326944\Downloads\spring-boot-sample-Redis\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-Redis)
+2017-06-19 16:45:32,286 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-19 16:45:32,286 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-19 16:45:34,366 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.312 seconds (JVM running for 2.653)
+2017-06-19 16:45:38,319 DEBUG (HelloController.java:23)- 访问helloName,Name=ni
+2017-06-19 16:51:27,093 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on SHA-Q06060086 with PID 2176 (D:\326944\Downloads\spring-boot-sample-Redis\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-Redis)
+2017-06-19 16:51:27,093 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-19 16:51:27,093 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-19 16:51:29,491 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.699 seconds (JVM running for 3.007)
+2017-06-19 16:51:53,272 DEBUG (StringRedisController.java:25)- 访问set:key=lxh2,value=1001
+2017-06-19 16:52:30,673 DEBUG (StringRedisController.java:32)- 访问get:key=lxh2
+2017-06-19 16:58:46,332 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on SHA-Q06060086 with PID 1788 (D:\326944\Downloads\spring-boot-sample-Redis\target\classes started by 326944 in D:\326944\Downloads\spring-boot-sample-Redis)
+2017-06-19 16:58:46,342 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-19 16:58:46,342 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-19 16:58:48,370 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.258 seconds (JVM running for 2.56)
+2017-06-19 17:00:11,602 DEBUG (ObjectRedisController.java:22)- 访问setPerson:id=2,name=lxh2,age=2
